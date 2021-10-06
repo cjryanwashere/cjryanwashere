@@ -8,4 +8,4 @@ function readFile(evt) {
         console.log(event.target.result);
     }
     reader.readAsText(file);
-}
+} 
