@@ -1,5 +1,4 @@
-// this loads and processes trajectory data. I do not know how to find the number of timesteps and number of atoms  from the file, so I will make it 
-// work here because I already know that the number of timesteps is 200, and that the number of atoms is 300
+
 const timesteps = 200;
 var raw_data = null;
 var num_atoms = null;
